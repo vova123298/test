@@ -1,2 +1,0 @@
-node xersuka.js
-pause
